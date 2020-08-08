@@ -6,4 +6,4 @@ This repo was created during the livecoding workshops @[GopherCon Russia](https:
 The application demonstrates how to start with observability in Go
 (logging, metrics, tracing).
 
-You can find the slides and workshop materials [here]( http://bit.ly/observab).
+You can find the slides and workshop materials [here](https://bit.ly/observability-aug).
